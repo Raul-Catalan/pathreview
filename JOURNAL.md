@@ -20,6 +20,17 @@ catching the TypeError and passing an empty string to the Faithfulness checker.]
 
 **Cohort ledger:** [x] Issue added to cohort ledger
 
-**Bug Reproduction Steps:** [To reliably reproduce the issue: running
-`pytest tests/unit/test_faithfulness_checker.py::TestFaithfulnessChecker::test_none_context_chunk_text`
-produces the failing test case]
+## Week 8 — Reproduction & solution planning
+
+**Reproduction commit link:**
+[https://github.com/ascherj/pathreview/commit/3c8db6d2e067f741f53753b6be2df4983b317092]
+
+**Reproduction summary:** [To reproduce the issue we can run
+`pytest tests/unit/test_faithfulness_checker.py::TestFaithfulnessChecker::test_none_context_chunk_text`.]
+
+**PLAN.md link:**
+[https://github.com/Raul-Catalan/pathreview/blob/fix/153-fix-faithfulness-checker-crashes/PLAN.md]
+
+**Walkthrough video (recommended):** []
+
+**Blockers or open questions:** []
