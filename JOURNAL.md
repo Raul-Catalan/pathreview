@@ -34,3 +34,35 @@ catching the TypeError and passing an empty string to the Faithfulness checker.]
 **Walkthrough video (recommended):** []
 
 **Blockers or open questions:** []
+
+## Week 9 — Solution building & PR submission
+
+### Check-in 1 (mid-week)
+
+**Current progress:** [I have implemented the fix to stop the function from
+throwing a TypeError when text = None. I have verified this works by running the
+test cases against that scenario.]
+
+**Next steps:** [The rest of the week Ill working on running `make check` and
+preparing my PR.]
+
+**Blockers:** []
+
+---
+
+### Check-in 2 (end of week)
+
+**PR link:** [https://github.com/ascherj/pathreview/pull/300]
+
+**Branch:** [153-fix-faithfulness-checker-crashes]
+
+**What you built:** [I added a fix to a TypeError, by adding a fallback
+statement if that were to fail. This allows the `check` method to run as
+expected and passes the unit test cases.]
+
+**Tests added or updated:** [No Tests where updated or added, only existing ones
+passed]
+
+**Self-review confirmation:** [x] make check passes [x] make test-unit passes
+
+**Draft PR feedback received from:** [none]
