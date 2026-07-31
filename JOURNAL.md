@@ -66,3 +66,43 @@ passed]
 **Self-review confirmation:** [x] make check passes [x] make test-unit passes
 
 **Draft PR feedback received from:** [none]
+
+## Week 10 — Iteration & reflection
+
+### Reviewer feedback
+
+**Feedback received:** [ ] Yes [x] No — still awaiting review
+
+**Summary of feedback:** [No Review was given]
+
+**How you responded:** [No Review was given so I did not have to change anything
+in the PR.]
+
+---
+
+### Reflection
+
+**What was harder than you expected?** [What was harder than expected was
+writing out my thought process, I knew how to fix it but to explain why I was
+doing what I was doing took more thought than it would have.]
+
+**What did you learn about working in a large codebase?** [What was different
+about working in a large codebase vs my own was that I had to first understand
+the codebase. I had to be mindful of what practices they were using and trying
+to adhere the code from my style to the style of the codebase.]
+
+**How did AI tools help — and where did they fall short?** [AI tools helped in
+reading the code base and breaking down what each part of the code does. Where
+they fall short is in understanding how smaller parts of the code fit in with
+the rest of the code base.]
+
+**What would you do differently if you started over?** [What I would differently
+is take a longer look at the code base and think of my fix and maybe test the
+fix before I start doing some documentation. I made the mistake of writing out
+the fix when it was not a good one and later on I had to change some
+documentation.]
+
+**What are you most proud of from this module?** [What I am most proud of this
+module is being able to solve this pr and document my whole thought process from
+start to finish. It went pretty smoothly, I never felt really stuck at any
+point.]
